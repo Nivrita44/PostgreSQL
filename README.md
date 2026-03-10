@@ -1467,5 +1467,5 @@ The output should list both backend nodes (primary and replica) with their statu
 | `lb_weight` | Reflects weights set in `pgpool.conf` |
 | `role` | `primary` or `standby` |
 
-![image.png](Pg_pool%20Setup%20&%20Configuration/image.png)
+![image](Pg_pool/Pg_pool%20Setup%20&%20Configuration/image.png)
 ---
